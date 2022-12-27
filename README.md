@@ -1,11 +1,11 @@
 # HRManagement
 
 Web-application using below technology-stack:
-Java 8+
-Servlet/JSP
-HTML/JS/CSS
-JDBC
-MySQL 8
+1. Java 8+
+2. Servlet/JSP
+3. HTML/JS/CSS
+4. JDBC
+5. MySQL 8
 
 Functional Requirements
 1. HR Head
